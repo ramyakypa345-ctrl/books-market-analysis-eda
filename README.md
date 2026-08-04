@@ -66,7 +66,7 @@ books-market-analysis-eda
 │
 ├── README.md
 ├── Books_Market_Analysis.ipynb
-├── images/
+├──images
 │   ├── price_distribution.png
 │   ├── rating_distribution.png
 │   ├── category_analysis.png
