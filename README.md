@@ -62,14 +62,31 @@ books-market-analysis-eda
 │   └── Books Market Analysis using EDA.pptx
 │
 ├── images
-│   ├── price_distribution.png
-│   ├── rating_distribution.png
-│   ├── category_analysis.png
-│   ├── books_by_price_category.png
-│   ├── average_price_by_category.png
-│   ├── average_rating_by_category.png
-│   ├── price_distribution_by_rating.png
-│   └── rating_vs_price_category.png
+│   ├── ## 📸 Project Screenshots
+
+### 1. Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### 2. Rating Distribution
+![Rating Distribution](images/rating_distribution.png)
+
+### 3. Category Analysis
+![Category Analysis](images/category_analysis.png)
+
+### 4. Books by Price Category
+![Books by Price Category](images/books_by_price_category.png)
+
+### 5. Average Price by Category
+![Average Price by Category](images/average_price_by_category.png)
+
+### 6. Average Rating by Category
+![Average Rating by Category](images/average_rating_by_category.png)
+
+### 7. Price Distribution by Rating
+![Price Distribution by Rating](images/price_distribution_by_rating.png)
+
+### 8. Rating vs Price by Price Category
+![Rating vs Price by Price Category](images/rating_vs_price_category.png)
 │
 ├── requirements.txt
 └── README.md
