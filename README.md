@@ -100,6 +100,7 @@ The following preprocessing steps were performed:
 The following analyses were performed:
 
 ### 📌 Price Distribution
+![Price Distribution](images/price_distribution.png)
 
 - Analyzed the distribution of book prices.
 - Most books belong to low and medium price ranges.
@@ -107,6 +108,7 @@ The following analyses were performed:
 ---
 
 ### ⭐ Rating Distribution
+![Rating Distribution](images/rating_distribution.png)
 
 - Analyzed customer ratings.
 - Most books have 3-star and 4-star ratings.
@@ -114,6 +116,7 @@ The following analyses were performed:
 ---
 
 ### 📚 Category Analysis
+![Category Analysis](images/category_analysis.png)
 
 - Compared the number of books available in different categories.
 - Identified categories with the largest collections.
@@ -121,6 +124,7 @@ The following analyses were performed:
 ---
 
 ### 💰 Books by Price Category
+![Books by Price Category](images/books_by_price_category.png)
 
 Books were classified into:
 
@@ -133,6 +137,7 @@ This helped understand how books are distributed across different pricing segmen
 ---
 
 ### 📈 Top 10 Categories by Average Price
+![Average Price by Category](images/average_price_by_category.png)
 
 Compared average selling prices across categories.
 
@@ -143,6 +148,8 @@ Key finding:
 ---
 
 ### 🌟 Top 10 Categories by Average Rating
+![Average Rating by Category](images/average_rating_by_category.png)
+
 
 Compared average customer ratings across categories.
 
@@ -153,6 +160,7 @@ Key finding:
 ---
 
 ### 📉 Price Distribution by Rating
+![Price Distribution by Rating](images/price_distribution_by_rating.png)
 
 Analyzed how book prices vary with ratings.
 
@@ -163,6 +171,7 @@ Higher-rated books are not necessarily more expensive.
 ---
 
 ### 📊 Rating vs Price by Price Category
+![Rating vs Price by Price Category](images/rating_vs_price_category.png)
 
 Compared ratings across Budget, Mid-Range, and Premium books.
 
