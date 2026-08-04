@@ -1,0 +1,14 @@
+Type,Statement
+Business Insight,"1. The dataset contains 1,000 books across 50 categories, providing a broad catalogue for analysis."
+Business Insight,2. The overall average book price is £35.07.
+Business Insight,"3. The Default category has the largest catalogue, with 152 books."
+Business Insight,"4. Suspense has the highest average book price at £58.33, indicating a premium-priced category in this dataset."
+Business Insight,"5. Crime has the lowest average book price at £10.97, making it the most affordable category on average."
+Business Insight,"6. One-star books are the most common rating group, with 226 books."
+Business Insight,"7. The Perfect Play (Play by Play #1) is the most expensive book at £59.99, while An Abundance of Katherines is the cheapest at £10.00."
+Business Insight,"8. The price-rating correlation is 0.03, which indicates almost no relationship between book price and rating."
+Recommendation,1. Review the large Default category and assign books to more specific categories where possible for better catalogue organisation.
+Recommendation,2. Promote affordable Crime books to attract price-sensitive customers.
+Recommendation,3. Review premium pricing in the Suspense category and ensure higher prices are supported by customer value.
+Recommendation,"4. Investigate low-rated books and improve quality, descriptions, or customer experience before promoting them heavily."
+Recommendation,5. Do not assume expensive books have better ratings; use rating and price together when designing promotions.

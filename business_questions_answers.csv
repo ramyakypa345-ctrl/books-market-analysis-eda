@@ -1,0 +1,11 @@
+Business Question,Answer
+1. How many books were scraped?,1000 books were scraped.
+2. How many book categories are available?,50 categories are available.
+3. What is the average book price?,£35.07
+4. Which category has the most books?,Default with 152 books.
+5. Which category has the highest average price?,Suspense with an average price of £58.33.
+6. Which category has the lowest average price?,Crime with an average price of £10.97.
+7. Which rating is most common?,1-star rating with 226 books.
+8. What is the most expensive book?,The Perfect Play (Play by Play #1) — £59.99
+9. What is the cheapest book?,An Abundance of Katherines — £10.00
+10. Is there a relationship between price and rating?,Price-rating correlation: 0.03
